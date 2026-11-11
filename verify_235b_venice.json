@@ -1,0 +1,18 @@
+{
+  "provider": [
+    "Venice",
+    "Venice",
+    "Venice"
+  ],
+  "turn0_prompt_tokens": 15,
+  "turn0_completion_tokens": 156,
+  "turn0_reasoning_tokens": 101,
+  "turn0_reasoning_chars": 400,
+  "turn0_reasoning_details_types": [
+    "reasoning.text"
+  ],
+  "turn1_prompt_tokens_stripped": 106,
+  "turn1_prompt_tokens_kept": 106,
+  "delta": 0,
+  "reasoning_used": false
+}

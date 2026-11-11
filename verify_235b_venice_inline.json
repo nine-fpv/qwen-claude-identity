@@ -1,0 +1,25 @@
+{
+  "history_mode_tested": "inline",
+  "model": [
+    "qwen/qwen3-235b-a22b-thinking-2507",
+    "qwen/qwen3-235b-a22b-thinking-2507",
+    "qwen/qwen3-235b-a22b-thinking-2507"
+  ],
+  "provider": [
+    "Venice",
+    "Venice",
+    "Venice"
+  ],
+  "turn0_prompt_tokens": 15,
+  "turn0_completion_tokens": 190,
+  "turn0_reasoning_tokens": 160,
+  "turn0_reasoning_chars": 602,
+  "turn0_reasoning_details_types": [
+    "reasoning.text"
+  ],
+  "turn1_prompt_tokens_stripped": 62,
+  "turn1_prompt_tokens_kept": 218,
+  "delta": 156,
+  "delta_vs_reasoning_tokens": 0.97,
+  "reasoning_used": true
+}

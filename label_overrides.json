@@ -1,0 +1,224 @@
+{
+ "results_stripped_thinking.jsonl|C_opener_claude|10|2": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|A_cold|1|1": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|E_identity_first|1|3": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|F_assigned|1|1": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|E_identity_first|2|3": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|A_cold|3|1": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|F_assigned|5|1": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|B_opener_none|9|2": {
+  "xi": false
+ },
+ "results_thinking_kept.jsonl|B_opener_none|12|2": {
+  "xi": true
+ },
+ "results_thinking_kept.jsonl|C_opener_claude|6|2": {
+  "xi": true
+ },
+ "results_thinking_kept.jsonl|C_opener_claude|9|2": {
+  "xi": false
+ },
+ "results_235b_venice_inline.jsonl|E_identity_first|5|3": {
+  "xi": false
+ },
+ "results_stripped_thinking.jsonl|F_assigned|2|2": {
+  "tam": true
+ },
+ "results_stripped_thinking.jsonl|B_opener_none|3|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|F_assigned|3|2": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|D_opener_gpt|4|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|D_opener_gpt|5|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|10|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|11|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|12|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|14|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|15|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|16|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|B_opener_none|18|3": {
+  "tam": false
+ },
+ "results_thinking_kept.jsonl|C_opener_claude|6|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|C_opener_claude|17|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|C_opener_claude|18|3": {
+  "tam": true
+ },
+ "results_thinking_kept.jsonl|D_opener_gpt|17|3": {
+  "tam": true
+ },
+ "results_235b_venice_inline.jsonl|B_opener_none|3|3": {
+  "tam": false
+ },
+ "results_dose.jsonl|B_opener_none|1|3|X75": {
+  "tam": true
+ },
+ "results_dose.jsonl|B_opener_none|3|2|X25": {
+  "xi": false
+ },
+ "results_dose.jsonl|B_opener_none|3|3|X50": {
+  "tam": false
+ },
+ "results_dose.jsonl|B_opener_none|6|3|X25": {
+  "tam": true
+ },
+ "results_dose.jsonl|B_opener_none|8|3|X25": {
+  "tam": true
+ },
+ "results_dose.jsonl|B_opener_none|12|3|X50": {
+  "tam": true
+ },
+ "results_dose.jsonl|B_opener_none|13|2|X50": {
+  "xi": false
+ },
+ "results_dose.jsonl|B_opener_none|13|3|X50": {
+  "tam": true
+ },
+ "results_dose.jsonl|B_opener_none|13|3|X75": {
+  "tam": false
+ },
+ "results_leader_baseline.jsonl|leader_trump|1|0": {
+  "told": true
+ },
+ "results_leader_baseline.jsonl|leader_trump|4|0": {
+  "told": false
+ },
+ "results_leader_baseline.jsonl|leader_trump|8|0": {
+  "told": true
+ },
+ "results_leader_baseline.jsonl|leader_trump|9|0": {
+  "told": true
+ },
+ "results_leader_baseline.jsonl|leader_biden|4|0": {
+  "told": true
+ },
+ "results_leader_baseline.jsonl|leader_macron|2|0": {
+  "told": true
+ },
+ "results_leader_baseline.jsonl|leader_xi|2|0": {
+  "told": false
+ },
+ "results_leader_baseline.jsonl|leader_xi|9|0": {
+  "told": false
+ },
+ "results_single.jsonl|G_single|1|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|2|0": {
+  "xi": true
+ },
+ "results_single.jsonl|G_single|3|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|4|0": {
+  "xi": true
+ },
+ "results_single.jsonl|G_single|5|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|6|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|7|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|8|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|9|0": {
+  "xi": true
+ },
+ "results_single.jsonl|G_single|10|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|11|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|12|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|13|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|14|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|15|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|1|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|2|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|3|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|4|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|5|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|6|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|7|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|8|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|9|0": {
+  "xi": false
+ },
+ "results_235b_single.jsonl|G_single|10|0": {
+  "xi": false
+ },
+ "results_single.jsonl|G_single|1|1": {
+  "tam": true
+ },
+ "results_single.jsonl|G_single|5|1": {
+  "tam": false
+ },
+ "results_single.jsonl|G_single|6|1": {
+  "tam": true
+ }
+}
