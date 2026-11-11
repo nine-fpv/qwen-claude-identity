@@ -176,6 +176,7 @@ fields, but all of them are `qwen3.8:27b-mlx` on local Ollama.
 | `results_235b_single.jsonl` | 235B thinking, Venice, stripped | G_single n=10 |
 | `verify_235b_venice.json` | 235B Venice | prompt-token check: reasoning via API fields (not used by the model) |
 | `verify_235b_venice_inline.json` | 235B Venice | prompt-token check: reasoning inline in content |
+| `verify_B.jsonl` | local 27B, thinking kept | `run_experiment.py verify` output: one B_opener_none run confirming thinking reaches the prompt (turn-1 prompt_eval 1189 ≈ 30 + 1142 + 15) |
 | `label_overrides.json` | — | hand-review decisions applied on top of the regex labels |
 | `qwen_claude_stripped_C9.json` | local 27B | a saved manual chat (C opener → "I'm Claude…"), loadable by `chat_stripped.py` |
 
